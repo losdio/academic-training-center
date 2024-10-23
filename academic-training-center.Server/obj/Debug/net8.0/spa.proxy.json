@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:5173",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\ADMIN\\source\\repos\\academic-training-center\\academic-training-center.Server\\..\\academic-training-center.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
