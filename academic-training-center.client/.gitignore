@@ -16,6 +16,7 @@ dist-ssr
 .vscode/*
 ../.vs/
 .vs/
+academic-training-center/.vs
 !.vscode/extensions.json
 .idea
 .DS_Store
